@@ -26,8 +26,9 @@ role: BSCS Student (Section 2-4) @ Polytechnic University of the Philippines
 track: COSC
 currently:
   - 📚 Balancing a heavy courseload while shipping side projects
-  - 🛠️ Building BayaniRemit — a remittance & household budget tracker
-  - 🕸️ Built NetForge — a mobile network topology simulator (6 graph algos!)
+  - 🌊 Building LIGTAS METRO — a flood-aware commute radar for Metro Manila
+  - 🚌 Building PARA PO! — a Taglish-powered NCR transit guide
+  - 🔀 Built AIRelay — a Chrome extension for AI context handoff
   - 💼 Exploring remote internships & entry-level dev roles
 looking_for: "Internship / entry-level opportunities in software dev or IT"
 fun_fact: "I like breaking things apart (pentesting/reversing) as much as building them"
@@ -139,7 +140,7 @@ Ever run out of tokens on Claude mid-conversation and have to start over on Gemi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/a-ldnstntng/a-ldnstntng/output/dist/pacman-contribution-graph.svg" />
+<img src="https://raw.githubusercontent.com/a-ldnstntng/a-ldnstntng/output/pacman-contribution-graph.svg" />
 
 </div>
 
