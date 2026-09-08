@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hi,%20I'm%20Ali%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hi,%20I'm%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -29,9 +29,7 @@ currently:
   - 🌊 Building LIGTAS METRO — a flood-aware commute radar for Metro Manila
   - 🚌 Building PARA PO! — a Taglish-powered NCR transit guide
   - 🔀 Built AIRelay — a Chrome extension for AI context handoff
-  - 💼 Exploring remote internships & entry-level dev roles
-looking_for: "Internship / entry-level opportunities in software dev or IT"
-fun_fact: "I like breaking things apart (pentesting/reversing) as much as building them"
+fun_fact: "I like breaking things apart as much as building them"
 ```
 
 ---
