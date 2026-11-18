@@ -27,14 +27,14 @@
   <rect x="0.5" y="0.5" width="847" height="451" rx="2" fill="#ffffff" stroke="#d0d7de"/>
 
   <!-- Top bar -->
-  <text x="16" y="23" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">ali andrei</text>
+  <text x="16" y="23" fill="#1f2328" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="600">ali tanting</text>
   <g shape-rendering="crispEdges">
-    <rect x="98" y="14" width="3" height="3" fill="#eab308"/>
-    <rect x="103" y="14" width="3" height="3" fill="#52525b"/>
-    <rect x="98" y="19" width="3" height="3" fill="#52525b"/>
-    <rect x="103" y="19" width="3" height="3" fill="#facc15"/>
+    <rect x="105" y="14" width="3" height="3" fill="#eab308"/>
+    <rect x="110" y="14" width="3" height="3" fill="#52525b"/>
+    <rect x="105" y="19" width="3" height="3" fill="#52525b"/>
+    <rect x="110" y="19" width="3" height="3" fill="#facc15"/>
   </g>
-  <text x="114" y="23" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="0.08em">BUILDING</text>
+  <text x="121" y="23" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="0.08em">BUILDING</text>
   <text x="832" y="23" text-anchor="end" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5">github.com/a-ldnstntng</text>
 
   <line x1="1" y1="36.5" x2="847" y2="36.5" stroke="#d0d7de"/>
@@ -9739,7 +9739,7 @@
   <!-- Identity split -->
   <line x1="504.5" y1="272" x2="504.5" y2="451" stroke="#d0d7de"/>
 
-  <text x="24" y="330" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.03em">ali andrei</text>
+  <text x="24" y="330" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.03em">ali tanting</text>
   <text x="24" y="356" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Building web apps, tools, and small indie games.</text>
 
   <text x="24" y="408" fill="#6e7781" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" letter-spacing="0.06em">HANDLE</text>

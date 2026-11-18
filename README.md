@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img src="./assets/hero-dark.svg" width="100%" alt="ali andrei" />
+    <img src="./assets/hero-dark.svg" width="100%" alt="ali tanting" />
   </picture>
 </p>
 
