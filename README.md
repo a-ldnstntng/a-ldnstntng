@@ -13,11 +13,3 @@
     <img src="./assets/languages-dark.svg" width="100%" alt="Languages and stack" />
   </picture>
 </p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg" />
-    <img src="./assets/contributions-dark.svg" width="100%" alt="Contributions" />
-  </picture>
-</p>
